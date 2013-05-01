@@ -7,10 +7,10 @@ title: About
 ## Topics
 
 * [github pages](http://github.com)
-	*html
-	*markdown
-*_css_frameworks
-*more_noise_from the ceiling
+	* html
+	* markdown
+* _css_frameworks
+* more _noise_ from the ceiling
 
 ## Labs
 
